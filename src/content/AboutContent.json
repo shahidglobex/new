@@ -1,15 +1,15 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Swift, Sleek, Reliable Tech",
+  "text": "Experience electronics that are light, fast, and responsive. Our cutting-edge products ensure optimal performance and efficiency. As trusted electronics traders, we bring you the best in technology to enhance your daily life.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Why Shayam traders?",
+      "content": "We provide only the best and latest in electronics, ensuring high performance and durability.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Expertise and Experience",
+      "content": "With years of experience in the industry, our knowledgeable team is here to help you find the perfect solution for your needs.",
       "icon": "notes.svg"
     }
   ]
