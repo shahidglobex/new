@@ -38,31 +38,87 @@ const PrivacyPolicy = () => {
               use of the above terminology or other words in the singular,
               plural, capitalization and/or he/she or they, are taken as
               interchangeable and therefore as referring to the same.
-              <PrivacySectionHeadings>Cookies</PrivacySectionHeadings>
-              We employ the use of cookies. By accessing
-              https://www.shyamtraders.net, you agreed to use cookies in
-              agreement with the Shyam traders Privacy Policy. Most interactive
-              websites use cookies to let us retrieve the user’s details for
-              each visit. Cookies are used by our website to enable the
-              functionality of certain areas to make it easier for people
-              visiting our website. Some of our affiliate/advertising partners
-              may also use cookies.
-              <PrivacySectionHeadings>Trading</PrivacySectionHeadings>
-              Shyam Traders provides access to various financial markets and
-              instruments, and you’re responsible for your trading decisions and
-              actions. You must comply with all applicable laws and regulations
-              and use Shyam Traders for lawful purposes only.
-              <PrivacySectionHeadings>Risk Disclosure</PrivacySectionHeadings>
-              Trading involves risks, and you should carefully consider your
-              investment objectives, risk tolerance, and financial situation
-              before using Shyam Traders. You should also educate yourself about
-              the risks and benefits of trading and seek professional advice if
-              needed.
-              <PrivacySectionHeadings>Fees and Charges</PrivacySectionHeadings>
-              Shyam Traders may charge fees and commissions for its services,
-              which may vary depending on the type of account, financial
-              instrument, and market conditions. You’re responsible for paying
-              all applicable fees and charges.
+              <PrivacySectionHeadings>Disclaimer</PrivacySectionHeadings>
+              The Client understands and agrees that all investment and/or
+              trading decisions are based on the Client's own investment
+              objectives and evaluation of prevailing financial circumstances.
+              This extends to all decisions made by the Client on the basis of
+              any information that may be available on the Platform. The Client
+              understands that Shayam traders is merely a facilitator providing
+              access to its Clients to participate in the financial and
+              commodity markets, and that Shayam traders does not seek to
+              influence or otherwise affect the decision-making process of its
+              Clients in any way whatsoever.The Client shall not hold nor seek
+              to hold Shayam traders or any of its officers, directors,
+              partners, employees, agents, subsidiaries, affiliates or business
+              associates liable for any trading losses or damages incurred as a
+              consequence of relying upon any information, opinions, advice or
+              any other material whatsoever on the Platform or in any brochures,
+              promotional material or any other literature promulgated by Shayam
+              traders or any of its affiliates or partners. The Client shall
+              seek independent advice from professionals on the suitability of
+              any investment decisions. The Client acknowledges that employees
+              and representatives of Shayam traders are not authorised to give
+              any such advice, and that the Client shall not solicit or rely
+              upon any such advice from Shayam traders or any of its employees
+              or representatives. Any advice of this nature inadvertently given
+              by any employee or representative of Shayam traders shall strictly
+              be construed as being in their personal capacity, and Shayam
+              traders disclaims any liabilities arising thereto.
+              <PrivacySectionHeadings>
+                Account Opening and Registration
+              </PrivacySectionHeadings>
+              Before availing of any online trading services on the Platform,
+              the Client is required to complete Shayam traders’s registration
+              process, as may be prescribed from time to time. To register
+              yourself, you are required to follow the procedure mentioned on
+              the Platform, along with any instructions communicated to you by
+              Shayam traders’s employees or representatives. Your account shall
+              be opened after submission of the requisite documentation and its
+              verification and at the sole discretion of Shayam traders. Online
+              account opening using Aadhaar is currently available only for
+              residents of India opening individual accounts, where the person’s
+              mobile number is linked to the Aadhaar. This is not permissible
+              for non-residents or for any manner of non-individual accounts
+              (HUFs, companies, LLPs, partnerships, etc.).In case of online
+              account opening using Aadhaar, data will be fetched from the KYC
+              database and cannot be edited. Any pickup of the required
+              documentation pertaining to the account opening procedure is
+              subject to the availability of our representatives at any
+              particular time and location.
+              <PrivacySectionHeadings>Price Data</PrivacySectionHeadings>
+              Shayam traders does not share real-time price data, except with
+              third parties where it is required for the orderly functioning of
+              the securities market, or where permitted by Applicable Law.The
+              Client agrees to use real-time price data shared with them via any
+              of our platforms, only for the purpose of using the platform and
+              activities that can be undertaken on our platforms. The Client
+              represents and warrants that they shall not use real-time price
+              data for any other purpose. Shayam traders reserves the right to
+              share market price data for investor education and awareness, with
+              time lags as determined by Applicable Law.
+              <PrivacySectionHeadings>
+                Fees and brokerage
+              </PrivacySectionHeadings>
+              The Client agrees to pay Shayam traders all brokerages,
+              transaction charges, commissions, fees, GST, and other taxes or
+              levies, by whatever name so called, as informed to the Client by
+              Shayam traders from time to time in writing. Shayam traders shall
+              be entitled to deduct such fees or levies from the Client’s
+              account or trading ledger, in lieu of the services received by the
+              Client from Shayam traders. All brokerages, transaction charges,
+              commissions and fees listed on Shayam traders's Platform are
+              subject to change from time to time, in compliance with the rules
+              prescribed by the Exchanges and SEBI, and at Shayam traders’s
+              discretion as per its business practices. Shayam traders shall
+              notify the Client with details of any changes with respect to such
+              brokerages, transaction charges, commissions and fees, along with
+              the dates upon which such charges shall become effective. Shayam
+              traders shall inform Clients of any such changes through an email
+              and/or SMS sent to the Client’s registered email ID and contact
+              number. An updated schedule of brokerages, transaction charges,
+              commissions and fees applicable for the various services provided
+              by Shayam traders on the Platform is available here.
               <PrivacySectionHeadings>Termination</PrivacySectionHeadings>
               Shyam Traders may terminate or suspend your account at any time
               for any reason, without prior notice. You may also terminate your
@@ -76,78 +132,163 @@ const PrivacyPolicy = () => {
               traders also disclaims any warranties, express or implied,
               including but not limited to warranties of merchantability,
               fitness for a particular purpose, and non-infringement.
-              <PrivacySectionHeadings>Terms of Trading</PrivacySectionHeadings>
-              Line Trading (Chamki ) & Scalping is strictly prohibited at our
-              platform. We reserve all the right to suspend the trade and
-              account in case we found somebody indulging in such activities.
               <PrivacySectionHeadings>
-                Bank Details/UPI ID:
+                Intellectual Property
               </PrivacySectionHeadings>
-              Please note that our bank details/UPI ID may undergo changes.
-              Kindly refrain from depositing funds using any previously provided
-              bank details, as we will not be liable for any transactions made
-              in error.
+              All intellectual property, including in relation to the Platforms,
+              including any software, techniques and processes used, and any
+              trademarks, logos, images, material, content, designs, information
+              and other content available on the Platform belongs exclusively to
+              Shayam traders or is licensed to Shayam traders. By no means is
+              any proprietary right or license in any intellectual property
+              impliedly or expressly granted by Shayam traders to the Client or
+              any other user of the Platform (together “Users”) through the
+              User’s use of the Platform. You shall not copy, decompile, reverse
+              engineer, or otherwise attempt to discover any source code,
+              license, use or assign any intellectual property in the Platform,
+              copy any logos, brand names, marketing or branding material or
+              pictures from the Platform, remove any copyright and other
+              proprietary notices contained in any content on the Platform, or
+              use spiders, crawlers or robots for the purpose of accessing the
+              Platform, or any content on the Platform. Any unauthorized use of
+              Shayam traders’s intellectual property rights in connection with
+              any other good, service or offering will constitute an
+              infringement of the intellectual property rights of Shayam traders
+              and may be actionable under the applicable laws.
+              <PrivacySectionHeadings>Indemnities</PrivacySectionHeadings>
+              The Client is aware that authentication technologies and strict
+              security measures are required for internet-based trading. The
+              Client agrees to indemnify and hold Shayam traders, its
+              affiliates, partners, directors, employees, and agents harmless
+              against any losses that may be suffered by it, its other
+              customers, or any third parties: (a) as a consequence of any claim
+              or action that may be initiated by a third party that is in any
+              way the result of improper use of user ID, password or 2FA login
+              credentials by the Client, (b) from failures or delays in the
+              debit process from the bank account for transfer funds including
+              for mutual funds, and (c) in case of bank delays or any technical
+              issue at Shayam traders's end that may lead to the delay of the
+              fulfilment of an order and the resultant change in the NAV at
+              which the order is placed, in the case of mutual funds. In the
+              event of death, insolvency or liquidation of the Client, or their
+              otherwise becoming incapable of receiving, paying for, delivering
+              or transferring securities which the Client has ordered to be
+              transacted upon through the Platform, Shayam traders shall be
+              entitled to close out the transaction on behalf of the Client. The
+              Client and/or their legal representatives shall be liable for any
+              losses or costs arising therefrom, and shall also be entitled to
+              receive any surpluses which may arise thereto. The Client agrees
+              to indemnify Shayam traders for any shortfalls that may arise as a
+              consequence of such close-out. By agreeing to use the Platform,
+              the Client agrees to indemnify and hold Shayam traders, its
+              affiliates, partners, directors, employees, and agents harmless
+              from any losses or harms that may arise due to: (i) breach by the
+              Client of any applicable laws, rules or regulations that may have
+              been applicable to their transactions on the Platform; (ii) breach
+              by the Client of any of the clause contained in these Terms; and
+              (iii) any act, neglect, misconduct or fraud by the Client.
+              <PrivacySectionHeadings>Force majeure</PrivacySectionHeadings>
+              Shayam traders shall not be responsible for any delays or defaults
+              in the performance of its obligations due to any contingencies
+              beyond its control. Such contingencies include but are not limited
+              to losses caused directly or indirectly by exchange or market
+              rulings, suspension of trading, fires, floods, civil commotions or
+              riots, earthquakes, cyclones, tsunamis, wars, strikes, pandemics
+              or health calamities, any terrorist actions, system failures,
+              breakdown in internet links and any regulatory actions by the
+              government.
+              <PrivacySectionHeadings>Severability</PrivacySectionHeadings>
+              In the event that any one or more of the provisions contained in
+              these Terms become invalid, illegal or unenforceable in any
+              respect under any law or regulations for the time being in force,
+              the validity, legality and enforceability of the remaining
+              provisions contained herein shall not in any way be prejudiced or
+              affected thereto.
               <PrivacySectionHeadings>
-                Jabbing and Scalping
+                Refund & cancellation policy
               </PrivacySectionHeadings>
-              Profit Booking Within 5 Minutes: Any profits made within 5 minutes
-              of a trade will be considered as jobbing or scalping. The platform
-              reserves the right to remove such profits.
-              <PrivacySectionHeadings>No VPN Usage</PrivacySectionHeadings>
-              Trading on the platform using a VPN (Virtual Private Network) is
-              not allowed. If someone is found using a VPN, their trades will be
-              deleted.
+              The refund & cancellation policy for all payments made or fees
+              paid towards account opening or availing of any other services
+              from Shayam traders shall be as follows: a. The fees paid towards
+              account opening charges to enable the Client’s equities and
+              commodities accounts is non-refundable. This fee is used towards
+              initiation of an account by a client and there are various charges
+              involved even if the account is not completely opened and
+              activated as well. The initiation of an account includes charges
+              for electronic data entry & maintenance, KYC, e-signing, the
+              printing of any documents, and operational costs of the business.
+              b. Pick up of the required documentation for account opening is
+              subject to the availability of our representatives at any
+              particular time and location. This service shall be separately
+              chargeable to compensate for the effort undertaken in this regard.
+              These charges are non-refundable. c. In case Shayam traders fails
+              to open an account within 10 days of submission of all the
+              necessary supporting documentation and authorisations by the
+              Client, such Clients may request a full refund of all the charges
+              paid towards account opening. d. In case a Client has paid the
+              charges relating to account opening multiple times, such Clients
+              are requested to create a ticket here. Upon being so intimated,
+              Shayam traders shall initiate the necessary procedure to refund
+              these amounts to the Client. e. In case the account opening fee is
+              paid, but the account has not been activated (a Client ID and
+              password have not yet been generated), a request to initiate a
+              refund with a clear reason can be sent by the Client to Shayam
+              traders. As the account opening fee includes various charges to
+              initiate the account opening process itself, as stated in the
+              first point above, no charges are refunded automatically. All
+              refund requests will be considered by Shayam traders on a case to
+              case basis. Clients understand that completion of all refund
+              procedures initiated by Shayam traders is subject to fulfilment by
+              the relevant third party agencies including banks and payment
+              gateways
               <PrivacySectionHeadings>
-                Dividend and Bonus
+                Governing Law, Jurisdiction and Dispute Resolution
               </PrivacySectionHeadings>
-              Dividend and bonus calculations will follow the rules and
-              regulations of the relevant stock exchange circulars.
-              <PrivacySectionHeadings>
-                Cross Orders and Same IP Address
-              </PrivacySectionHeadings>
-              The platform will cancel cross orders and trades made with the
-              same IP address. Trading with the same IP address in multiple
-              accounts is strictly prohibited, and profitable trades may be
-              removed without prior notice.
-              <PrivacySectionHeadings>
-                Negative Balance Protection
-              </PrivacySectionHeadings>
-              The platform offers protection against negative balances, with a
-              specified step-out level of 30%.
-              <PrivacySectionHeadings>
-                Execution of Orders
-              </PrivacySectionHeadings>
-              Stop loss and other orders will be executed based on bid/ask
-              prices, not the last traded price (LTP).
-              <PrivacySectionHeadings>
-                Prohibited Trading Practices
-              </PrivacySectionHeadings>
-              Chamka (possibly a term specific to the platform), lines, and
-              insider trades are not acceptable.
-              <PrivacySectionHeadings>
-                Reporting Glitches
-              </PrivacySectionHeadings>
-              Users are required to report any glitches or software issues
-              immediately. If a client cannot close their positions due to a
-              software glitch, they should notify the platform, and the
-              positions will be squared off at the current market price (CMP)
-              upon receipt of the message.
-              <PrivacySectionHeadings>Group Trading</PrivacySectionHeadings>
-              Group trading is not allowed on the platform without prior written
-              permission from the platform’s administration.
-              <PrivacySectionHeadings> Payout Delays</PrivacySectionHeadings>
-              Payouts may be delayed due to banking server issues, and clients
-              are advised to be patient in such situations. Margin and Fund
-              Management Clients are responsible for maintaining adequate
-              margin/fund levels to avoid partial liquidation or losses.
-              <PrivacySectionHeadings> Account Locking</PrivacySectionHeadings>
-              If a client does not use their account for 7 days, it will be
-              locked for security reasons. To unlock the account, the client
-              should contact customer support. These are the terms and
-              conditions outlined by Shyam traders, presumably for trading on
-              their platform. It’s important to read and understand these terms
-              before using their platform, as they outline the rules and
-              expectations for users. Here’s a breakdown of each point:
+              The Terms and the use of the website are governed by and construed
+              in accordance with the laws of India. In the event any dispute or
+              difference arises between the User and Shayam traders in
+              connection with the validity, interpretation, termination and
+              implementation or alleged breach of any provision of the Terms
+              (“Dispute”), both Parties hereto shall endeavour to settle such
+              Dispute within a period of 30 days, amicably with each other and
+              in good faith. Upon failure to amicably settle any Dispute, the
+              User must give written notice to Shayam traders and refer the
+              Dispute to be resolved by arbitration to be conducted by a sole
+              arbitrator, mutually appointed by both parties to settle the
+              Dispute. The arbitration proceedings shall be conducted in
+              accordance with the rules of the Mumbai Centre for International
+              Arbitration. If both Parties are unable to mutually agree upon an
+              arbitrator, the Mumbai Centre for International Arbitration shall
+              appoint the sole arbitrator. The venue and seat of arbitration
+              shall be Bangalore, India. The arbitration proceedings shall be
+              conducted in English. The arbitral award shall be substantiated in
+              writing. The courts in Bangalore, India shall have exclusive
+              jurisdiction over all matters connected with these Terms and Your
+              use of the website.
+              <PrivacySectionHeadings>Notice</PrivacySectionHeadings>
+              All notices, correspondences or communications issued under these
+              Terms shall be served in any one or more of the following modes of
+              communications, and such notices or correspondence shall be served
+              at the last known email address/ residential address/ ordinary
+              place of business of all parties to these Terms. The modes of
+              communication include: 1. Delivery by hand 2. Delivery by
+              registered/unregistered post 3. Delivery under certificate of
+              posting 4. Delivery by email or fax 5. By affixing on the door at
+              the last known business or residential address. 6. By oral
+              communication to the party or on the last known telephone number
+              or on the recording machine of such number. 7. By advertising in
+              at least one prominent daily newspaper having circulation in the
+              area where the last known business or residential address of the
+              party is situated. 8. By notice posted on the notice board of
+              Shayam traders if no address is known. 25.2 Any communication sent
+              by Shayam traders to the Client shall be deemed to have been
+              properly delivered or served, if such communication is returned to
+              Shayam traders as unclaimed/refused/undelivered, if such
+              communication was sent in any of the modes illustrated above. 25.3
+              Communication received by clients of Shayam traders through
+              registered email IDs and phone numbers: This information is
+              limited for consumption of the client only, and these emails
+              should not be reshared with others.
             </Content>
 
             <ServiceWrapper></ServiceWrapper>
