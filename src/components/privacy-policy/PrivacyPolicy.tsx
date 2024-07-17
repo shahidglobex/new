@@ -12,7 +12,7 @@ import {
 
 const PrivacyPolicy = () => {
   return (
-    <ContentSection>
+    <ContentSection id="privacy-policy">
       <Fade direction={"left"} triggerOnce>
         <Col lg={24} md={24} sm={24} xs={24}>
           <PrivacyPolicyWrapper>
