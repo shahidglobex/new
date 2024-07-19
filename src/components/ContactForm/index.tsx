@@ -9,6 +9,7 @@ import Block from "../Block";
 import Input from "../../common/Input";
 import TextArea from "../../common/TextArea";
 import { ContactContainer, FormGroup, Span, ButtonContainer } from "./styles";
+import Checkbox from "../../common/Input/checkbox";
 
 const Contact = ({ title, content, id, t }: ContactProps) => {
   const { values, errors, handleChange, handleSubmit } = useForm(validate);
@@ -58,6 +59,14 @@ const Contact = ({ title, content, id, t }: ContactProps) => {
                 />
                 <ValidationType type="message" />
               </Col>
+              <Col span={24}>
+                <Checkbox
+                  type="checkbox"
+                  name="I agree to terms & conditions "
+                />
+                <ValidationType type="message" />
+              </Col>
+
               <ButtonContainer>
                 <Button name="submit">{t("Submit")}</Button>
               </ButtonContainer>
