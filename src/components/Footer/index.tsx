@@ -56,7 +56,7 @@ const Footer = ({ t }: { t: TFunction }) => {
               <Para>
                 {t(`Do you have any question? Feel free to reach out.`)}
               </Para>
-              <a href="mailto:support@shayamtraders.net">
+              <a href="mailto:support@shyamtraders.net">
                 <Chat>{t(`Let's Chat`)}</Chat>
               </a>
             </Col>
