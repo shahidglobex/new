@@ -294,6 +294,24 @@ const PrivacyPolicy = () => {
             <ServiceWrapper></ServiceWrapper>
           </PrivacyPolicyWrapper>
         </Col>
+
+        <Col lg={24} md={24} sm={24} xs={24}>
+          <PrivacyPolicyWrapper>
+            <h6>{"Terms And Conditions"}</h6>
+            <Content>
+              <PrivacySectionHeadings>Communication</PrivacySectionHeadings>
+              You consent to receive communications from us by way of e-mails,
+              phone calls and SMS’s with respect to your transactions on our
+              Website. Users will be required to register their valid phone
+              numbers and e-mail addresses to facilitate such communication. We
+              may also use your e-mail address to send You updates, newsletters,
+              changes to features of the Service, and the like to provide You
+              better Services.
+            </Content>
+
+            <ServiceWrapper></ServiceWrapper>
+          </PrivacyPolicyWrapper>
+        </Col>
       </Fade>
     </ContentSection>
   );
