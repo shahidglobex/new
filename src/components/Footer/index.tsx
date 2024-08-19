@@ -60,12 +60,6 @@ const Footer = ({ t }: { t: TFunction }) => {
                 <Chat>{t(`Let's Chat`)}</Chat>
               </a>
             </Col>
-            <Col lg={6} md={6} sm={12} xs={12}>
-              <Language>{t("Address")}</Language>
-              <Para>P.NO.9,F.NO.102, SHANTI SANPDDHI, JAIPUR M Corp</Para>
-              <Para>Part, Babul Kirana, DHERAJ COLONY, MURLIPURA</Para>
-              <Para>Jaipur, Rajasthan, 302039</Para>
-            </Col>
           </Row>
         </Container>
       </FooterSection>
